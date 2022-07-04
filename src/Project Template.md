@@ -6,6 +6,10 @@ Simple overview of use/purpose.
 
 An in-depth paragraph about your project and overview of use.
 
+## Diagram (optional)
+
+If necessary, add a diagram showing where this project fits and how it works. If it’s a CLI tool or a graphical tool, this would be a great opportunity to add an animated GIF of your project in action. Even better, adding a youtube video demo of your project to your README could be very beneficial to gaining more users.
+
 ## Getting Started
 
 ### Dependencies
@@ -33,12 +37,14 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
+## Contributor expectations
+If you are looking for contributors, make sure you set the ground rules. There’s nothing worse than getting someone who wants to help you but they don’t know how! This section of the README gives the guidelines for contributions. Do you expect someone to create an issue in the issue queue and then resolve it with a pull request? Do you want squashed commits? Do you have a pull requests template? Explain it all here.
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Rutuja Rane  
+ex. [@Rutuja](https://www.linkedin.com/in/rutuja-rane-2a7682232/)
 
 ## Version History
 
@@ -55,8 +61,9 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [ask-cloud-architech](hhttps://www.youtube.com/watch?v=E6NO0rgFub4)
+
+
+## Like this project?
+
+Don’t be ashamed to ask for money. Seriously! You put a lot of effort into this project and if someone likes it they might just throw you a couple of bucks. You can add a link to Buy Me a Coffee! - 
